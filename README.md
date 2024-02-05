@@ -6,13 +6,13 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Sou Desenvolvedor Web e gosto muito de compartilhar meu conhecimento e aprendizado no GitHub
     <a href="https://www.youtube.com" target="_blank">
       <img
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
+           src="https://img.shields.io/youtube/channel/subscribers/UCXJ142JsQvnvVtHWIKZhcAw?label=iCode&style=social" 
            target="_blank" 
       />
     </a>  
@@ -46,10 +46,10 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCXJ142JsQvnvVtHWIKZhcAw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ricardoflavio75/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/flavio0533/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:ricardoflavio75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
